@@ -1,3 +1,6 @@
+<h1> Performance Analytics </h1>
+<h5> Analisis kinerja bisnis Kimia Farma Tahun 2020-2023 </h5>
+
 <p>
   Project ini berisi analisis performa bisnis Kimia Farma pada tahun 2020–2023 menggunakan dataset yang terdiri dari tabel transaksi, produk, inventory, serta kantor cabang. Seluruh data diproses dan digabungkan di BigQuery hingga membentuk tabel analitik yang memuat indikator utama seperti nett sales dan nett profit.
 </p>
